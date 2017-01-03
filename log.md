@@ -2,11 +2,10 @@
 
 ### Day 1: January 3, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Researched how to go about creating a Wikipedia viewer for the FCC project.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It's been a frustrating day, as I can't seem to understand the documentation. Plus there are a couple of APIs, which adds to the complexity. I've certainly spent more than an hour looking, though! Hope for better luck later today or tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
 
 
