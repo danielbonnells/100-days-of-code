@@ -12,6 +12,13 @@
 
 **Thoughts:** The wikipedia API documentation is incredibly large. Despite me reading and reading, I didn't find what I was looking for until I watched a video on youtube about the project. That set me off on the right foot to get to work. 
 
+### Day 3: January 5, 2017 
+
+**Today's Progress**: Completed the Wikipedia viewer project for FreeCodeCamp.
+
+**Thoughts:** The biggest challenge with this was interpreting the documentation, which, in my opinion, isn't very accessible to a beginner. I'm glad I pushed through it, though, and I am happy with the outcome. 
+
+**Link:** http://codepen.io/danielbonnells/pen/xgxPWg
 
 
 
