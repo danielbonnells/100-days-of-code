@@ -20,6 +20,10 @@
 
 **Link:** http://codepen.io/danielbonnells/pen/xgxPWg
 
+### Day 4: January 6, 2017 
 
+**Today's Progress**: Started looking at how to tackle the TwitchTV project for FCC.
+
+**Thoughts:** It looks like this will be easy enough due to the fact that we're given a lot of information on how to start. I will probably have it done by tomorrow. 
 
 
