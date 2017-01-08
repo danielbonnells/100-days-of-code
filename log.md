@@ -26,4 +26,9 @@
 
 **Thoughts:** It looks like this will be easy enough due to the fact that we're given a lot of information on how to start. I will probably have it done by tomorrow. 
 
+### Day 5: January 7, 2017 
+
+**Today's Progress**: TwitchTv nearly finished.
+
+**Thoughts:** The most important parts are done, but the details are killing me. I've spent hours getting one small feature to work and I just haven't figured it out. APIs are annoying. 
 
