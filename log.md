@@ -32,3 +32,10 @@
 
 **Thoughts:** The most important parts are done, but the details are killing me. I've spent hours getting one small feature to work and I just haven't figured it out. APIs are annoying. 
 
+### Day 6: January 8, 2017 
+
+**Today's Progress**: TwitchTv project was finished, tomorrow is algorithms.
+
+**Thoughts:** I found that I had to make some sacrifices for what I wanted and how I wanted to implement it because it just wasn't working. The project meets all the requirements, but I had envisioned more. So that's kind of sad.  
+
+
