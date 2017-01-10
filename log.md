@@ -40,4 +40,9 @@
 
 **Link:** http://codepen.io/danielbonnells/pen/jyPXrR
 
+### Day 7: January 9, 2017 
+
+**Today's Progress**: Started working on some intermediate algorithms. 
+ 
+**Thoughts:** Some of them seem simple, but aren't, while others seem difficult... and ARE difficult. Lot's of reading to be done in order to figure out how to approach some of these.
 
