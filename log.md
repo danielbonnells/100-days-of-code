@@ -46,3 +46,11 @@
  
 **Thoughts:** Some of them seem simple, but aren't, while others seem difficult... and ARE difficult. Lot's of reading to be done in order to figure out how to approach some of these.
 
+### Day 8: January 9, 2017 
+
+**Today's Progress**: Worked on drawing with CSS. The algorithms can wait! 
+ 
+**Thoughts:** Drawing with CSS is kinda fun! It's interesting keeping track of the order that things will render in and such, but fun overall. Certainly a break from the more mentally challenging projects. 
+
+**Link:** http://codepen.io/danielbonnells/pen/xgZXgL?editors=1100
+
