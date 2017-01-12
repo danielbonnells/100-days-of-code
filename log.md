@@ -46,7 +46,7 @@
  
 **Thoughts:** Some of them seem simple, but aren't, while others seem difficult... and ARE difficult. Lot's of reading to be done in order to figure out how to approach some of these.
 
-### Day 8: January 9, 2017 
+### Day 8: January 10, 2017 
 
 **Today's Progress**: Worked on drawing with CSS. The algorithms can wait! 
  
@@ -54,3 +54,8 @@
 
 **Link:** http://codepen.io/danielbonnells/pen/xgZXgL?editors=1100
 
+### Day 9: January 11, 2017 
+
+**Today's Progress**: Solved an algorithm exercise by thinking it through on paper. So good.
+ 
+**Thoughts:** Not gonna lie, it felt pretty nice solving that one algorithm by myself in nearly one fell swoop. I feel like the more you learn, the easier it is to see where/how you should start adressing a problem. Very happy about that.
