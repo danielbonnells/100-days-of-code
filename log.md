@@ -59,3 +59,9 @@
 **Today's Progress**: Solved an algorithm exercise by thinking it through on paper. So good.
  
 **Thoughts:** Not gonna lie, it felt pretty nice solving that one algorithm by myself in nearly one fell swoop. I feel like the more you learn, the easier it is to see where/how you should start adressing a problem. Very happy about that.
+
+### Day 10: January 12, 2017 
+
+**Today's Progress**: Complete failure day.
+ 
+**Thoughts:** Nothing like hitting a brick wall when you're feeling invincible. Yesterday I thought I had this coding thing in the bag, but today's algorithm exercise has stumped me hardcore. I've been at it for hours and cannot figure out the logic to solving the issue. Really sucks because I've spent hours and hours on this. Feels like the whole day has been wasted.
