@@ -65,3 +65,11 @@
 **Today's Progress**: Complete failure day.
  
 **Thoughts:** Nothing like hitting a brick wall when you're feeling invincible. Yesterday I thought I had this coding thing in the bag, but today's algorithm exercise has stumped me hardcore. I've been at it for hours and cannot figure out the logic to solving the issue. Really sucks because I've spent hours and hours on this. Feels like the whole day has been wasted.
+
+### Day 11: January 13, 2017 
+
+**Today's Progress**: Got yesterday's algorithm done with some youtube help. 
+ 
+**Thoughts:** After more hours trying, I went to youtube. I saw how to get it done, and they had a much simpler, better answer than I was trying to come up with. Also did the second day of CSS Image challenge.
+
+**Link: ** http://codepen.io/danielbonnells/pen/ygJxMK/
