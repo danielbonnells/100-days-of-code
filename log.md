@@ -73,3 +73,9 @@
 **Thoughts:** After more hours trying, I went to youtube. I saw how to get it done, and they had a much simpler, better answer than I was trying to come up with. Also did the second day of CSS Image challenge.
 
 **Link:** http://codepen.io/danielbonnells/pen/ygJxMK/
+
+### Day 12: January 14, 2017 
+
+**Today's Progress**: Did a lot of reading and learning. 
+ 
+**Thoughts:** Not much coding, but more reading up on how to tackle certain algorithms.
