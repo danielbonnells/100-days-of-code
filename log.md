@@ -79,3 +79,15 @@
 **Today's Progress**: Did a lot of reading and learning. 
  
 **Thoughts:** Not much coding, but more reading up on how to tackle certain algorithms.
+
+### Day 13: January 15, 2017 
+
+**Today's Progress**: Algorithms again!
+ 
+**Thoughts:** Only did an hour, which seems like not a lot of time considering I have been doing several hours per day.
+
+### Day 14: January 16, 2017 
+
+**Today's Progress**: Just barely did anything. 
+ 
+**Thoughts:** Had a lot of other stuff going on today, but I did look at some problems. Not my best day though. 
