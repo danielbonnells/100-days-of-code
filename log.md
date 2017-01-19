@@ -88,6 +88,18 @@
 
 ### Day 14: January 16, 2017 
 
+**Today's Progress**: Same set of algorithms continued.
+ 
+**Thoughts:** Some are easy to solve, others are more challenging and require copious amounts of time reading. 
+
+### Day 15: January 17, 2017 
+
 **Today's Progress**: Just barely did anything. 
  
 **Thoughts:** Had a lot of other stuff going on today, but I did look at some problems. Not my best day though. 
+
+### Day 16: January 18, 2017 
+
+**Today's Progress**: Spent all day coding! 
+ 
+**Thoughts:** I worked on a personal project onverting a static website into a responsive one. Boy has it taken longer than I imagined!
