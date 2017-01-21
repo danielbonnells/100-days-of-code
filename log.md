@@ -103,3 +103,15 @@
 **Today's Progress**: Spent all day coding! 
  
 **Thoughts:** I worked on a personal project onverting a static website into a responsive one. Boy has it taken longer than I imagined!
+
+### Day 17: January 19, 2017 
+
+**Today's Progress**: Did a few of the intermediate algorithms. 
+ 
+**Thoughts:** These algorithms do make my noggin work! But it's fun. 
+
+### Day 18: January 20, 2017 
+
+**Today's Progress**: More alcorithms, hoping to finish Intermediate Algorthims by the end of next week.
+ 
+**Thoughts:** They are a good challenge and I surely have to think through them a lot, but it feels good getitng them done. Sometimes I'm not even sure how I did it! Haha. But yeah woohoo algorithms. I'm hoping that in under a month I can have the Front End Certificate from FCC under my belt!
