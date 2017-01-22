@@ -115,3 +115,9 @@
 **Today's Progress**: More alcorithms, hoping to finish Intermediate Algorthims by the end of next week.
  
 **Thoughts:** They are a good challenge and I surely have to think through them a lot, but it feels good getitng them done. Sometimes I'm not even sure how I did it! Haha. But yeah woohoo algorithms. I'm hoping that in under a month I can have the Front End Certificate from FCC under my belt!
+
+### Day 19: January 21, 2017 
+
+**Today's Progress**: I just worked on one algorithm problem; still not solved.
+ 
+**Thoughts:** I can see how, as problems become more challenging, your use of logic needs to increase. It's with these problems that you can grow your brain's capacity and comprehension. 
