@@ -121,3 +121,15 @@
 **Today's Progress**: I just worked on one algorithm problem; still not solved.
  
 **Thoughts:** I can see how, as problems become more challenging, your use of logic needs to increase. It's with these problems that you can grow your brain's capacity and comprehension. 
+
+### Day 20: January 22, 2017 
+
+**Today's Progress**: Solved that algorithm, and a couple more.
+ 
+**Thoughts:** So I'm seeing that you need to really flex your brain's logic muscle to get these done. Unfortunately, mine isn't so strong. I'm getting down about it, but trying to give myself room to grow and realize that if it were easy, everyone would do it.
+
+### Day 21: January 23, 2017 
+
+**Today's Progress**: Today I spent time working on one problem. 
+ 
+**Thoughts:** I lean towards writing my own code and solution versus googling to find somebody else's, but I fear that I will be developing bad habits if I stick to what I know, as it may not be the "best" way to go about solving an issue. 
