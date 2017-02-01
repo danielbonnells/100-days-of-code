@@ -133,3 +133,10 @@
 **Today's Progress**: Today I spent time working on one problem. 
  
 **Thoughts:** I lean towards writing my own code and solution versus googling to find somebody else's, but I fear that I will be developing bad habits if I stick to what I know, as it may not be the "best" way to go about solving an issue. 
+
+
+### Day 29: January 31, 2017 
+
+**Today's Progress**: I'm still very much in this! Advanced Algorithms. 
+ 
+**Thoughts:** I made it to advanced algorithms! Very happy about that. On some of the intermediate algorithms I got a bit discouraged, which led to me looking for the answers elsewhere. I voy to not do that anymore, only research what I have to but no giving up. My solution won't necessarily be the cleanest or tightest code, but it'll work! This is all a learning process.
