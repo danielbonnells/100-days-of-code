@@ -139,4 +139,10 @@
 
 **Today's Progress**: I'm still very much in this! Advanced Algorithms. 
  
-**Thoughts:** I made it to advanced algorithms! Very happy about that. On some of the intermediate algorithms I got a bit discouraged, which led to me looking for the answers elsewhere. I voy to not do that anymore, only research what I have to but no giving up. My solution won't necessarily be the cleanest or tightest code, but it'll work! This is all a learning process.
+**Thoughts:** I made it to advanced algorithms! Very happy about that. On some of the intermediate algorithms I got a bit discouraged, which led to me looking for the answers elsewhere. I vow to not do that anymore, only research what I have to but no giving up. My solution won't necessarily be the cleanest or tightest code, but it'll work! This is all a learning process.
+
+### Day 39: February 9, 2017
+
+**Today's Progress**: A couple of days ago I started a python intro course.
+
+**Thoughts:** This python course seems a bit dawnting, but it could be a lot of fun. I need to start learning some back end material, so this should help. So I'm learning python with Flask(a library) and using a virtualenvironment. I'm not neglecting my javascript with FreeCodeCamp, I'm just not doing it every day. The Advanced Algorithms are quite challenging, and I did find myself having to look to youtube for answers, but I feel better about certain methods now, like reduce(function(){},) and filter(index, value, array). Understanding recursion is a big tough on the brain, but I'm getting there. Very proud of how far I've come. :)  
