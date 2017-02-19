@@ -146,3 +146,9 @@
 **Today's Progress**: A couple of days ago I started a python intro course.
 
 **Thoughts:** This python course seems a bit dawnting, but it could be a lot of fun. I need to start learning some back end material, so this should help. So I'm learning python with Flask(a library) and using a virtualenvironment. I'm not neglecting my javascript with FreeCodeCamp, I'm just not doing it every day. The Advanced Algorithms are quite challenging, and I did find myself having to look to youtube for answers, but I feel better about certain methods now, like reduce(function(){},) and filter(index, value, array). Understanding recursion is a big tough on the brain, but I'm getting there. Very proud of how far I've come. :)  
+
+### Day 48: February 18, 2017
+
+**Today's Progress**: Wow, almost half way done with the challenge!
+
+**Thoughts:** I'm nearing the 50 day mark! And to think that I wouldn't be committed enough to code every day! I'm so, so, so glad that I challenged myself to do it. It has brought back my work ethic and helped me improve on my discipline. Anyway, I had been stuck on a certain Advanced Algorithm for too long, over a week and a half, but I finally finished it. Man, that was rough. It really made me question everything, from my potential to my purpose. But through the help of the internet and some background music to focus, I made it happen. Right after that I completed another one of the advanced challenges. That made me feel good and proud of my capabilities. As for the python course, I have to catch up! I missed the last 2 lessons and assignments, but I'm confident I can catch up. It's only till the end of the month anyway, so that should be fine. Although I am going on vacation for four days to a country without internet, so I'm not sure what will happen once I'm there in regards to my coding. Anyway, onwards and upwards! 
