@@ -152,3 +152,9 @@
 **Today's Progress**: Wow, almost half way done with the challenge!
 
 **Thoughts:** I'm nearing the 50 day mark! And to think that I wouldn't be committed enough to code every day! I'm so, so, so glad that I challenged myself to do it. It has brought back my work ethic and helped me improve on my discipline. Anyway, I had been stuck on a certain Advanced Algorithm for too long, over a week and a half, but I finally finished it. Man, that was rough. It really made me question everything, from my potential to my purpose. But through the help of the internet and some background music to focus, I made it happen. Right after that I completed another one of the advanced challenges. That made me feel good and proud of my capabilities. As for the python course, I have to catch up! I missed the last 2 lessons and assignments, but I'm confident I can catch up. It's only till the end of the month anyway, so that should be fine. Although I am going on vacation for four days to a country without internet, so I'm not sure what will happen once I'm there in regards to my coding. Anyway, onwards and upwards! 
+
+### Day 68: March 10, 2017
+
+**Today's Progress**: Progress has been slow, but I'm almost where I want to be!
+
+**Thoughts:** Goodness! I can't believe it has already been 68 days since I started. I still feel as motivated as ever, particularly because I'm already onto the second of four projects before I can claim my Front-End Certificate from FreeCodeCamp! It's been a lot of work and frustration, but a lot of fun too. I have skipped a few days here and there, like when I went on vacation, but it is already become a habit to code every day, which makes me really happy. My goal is to finish these three projects, claim my certificate, update my website, and be ready to apply for jobs by the end of the month! It makes me nervous but I know that I have desirable skills under my belt and can land a job if I just apply to many places. 
