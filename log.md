@@ -158,3 +158,14 @@
 **Today's Progress**: Progress has been slow, but I'm almost where I want to be!
 
 **Thoughts:** Goodness! I can't believe it has already been 68 days since I started. I still feel as motivated as ever, particularly because I'm already onto the second of four projects before I can claim my Front-End Certificate from FreeCodeCamp! It's been a lot of work and frustration, but a lot of fun too. I have skipped a few days here and there, like when I went on vacation, but it is already become a habit to code every day, which makes me really happy. My goal is to finish these three projects, claim my certificate, update my website, and be ready to apply for jobs by the end of the month! It makes me nervous but I know that I have desirable skills under my belt and can land a job if I just apply to many places. 
+
+**Link:** http://codepen.io/danielbonnells/pen/QpGrGr
+
+### Day 71: March 13, 2017
+
+**Today's Progress**: Finished my second project! Pomodoro clock.
+
+**Thoughts:** I just wrapped up the second of four projects for the F.E.D. certificate. It's a pomodoro clock! It was a lot of work getting this done, but I'm proud of myself! Good stuff. Probably will work on other stuff today and start coding again tomorrow.
+
+**Link:** http://codepen.io/danielbonnells/pen/QppVPm
+
