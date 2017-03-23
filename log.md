@@ -169,3 +169,10 @@
 
 **Link:** http://codepen.io/danielbonnells/pen/QppVPm
 
+### Day 80: March 22, 2017
+
+**Today's Progress**: Finished my third project, the Tic Tac Toe game.
+
+**Thoughts:** I honestly can't say I'm too happy with this project. When I started it, the goal was to make a game AI that was impossible to be beaten. I soon found out that this was quite difficult and beyond my current capabilities, so I asked around and was informed that this characteristic was not a requirement. That meant that I could make a game without an AI. Such a game is incredibly boring because there's a slim chance you'll lose if you've got any idea of how the game works. You probably will win even if you don't know how to play! So I'm a little disappointed that I couldn't code that part of it. Otherwise, it looks pretty so I'm satisfied with that. One more project and my FCC Front End certificate is in my hands!
+
+**Link:** https://codepen.io/danielbonnells/full/WpEZMZ/
