@@ -176,3 +176,12 @@
 **Thoughts:** I honestly can't say I'm too happy with this project. When I started it, the goal was to make a game AI that was impossible to be beaten. I soon found out that this was quite difficult and beyond my current capabilities, so I asked around and was informed that this characteristic was not a requirement. That meant that I could make a game without an AI. Such a game is incredibly boring because there's a slim chance you'll lose if you've got any idea of how the game works. You probably will win even if you don't know how to play! So I'm a little disappointed that I couldn't code that part of it. Otherwise, it looks pretty so I'm satisfied with that. One more project and my FCC Front End certificate is in my hands!
 
 **Link:** https://codepen.io/danielbonnells/full/WpEZMZ/
+
+### Day 85: March 27, 2017
+
+**Today's Progress**: I GOT MY FRONT END WEB DEVELOPER CERTIFICATE!
+
+**Thoughts:** Woohooooo! I'm so happy I've made it here!! :) Yipee. It was an arduous process, and it wasn't perfect, but I really did put in the work for it, which I'm really proud of, and I achieved what I wanted to achieve! So Yay for that :) Prior to claiming my certificate, I finished the final Front End project, the Simon Says game. That was a challenging project simply in terms of figuring out the order in which things should occur, but there was nothing particularly challenging about the actual code. I did learn how to work with setTimeout though, which is very handy to have. And how to play some sounds. Anyway, below is a link to that project and to view my shiny new certificate. The goal now is to re-do my website, get my resume ready, and apply for jobs! :) Daunting but exciting as well. 
+
+**Link:** https://codepen.io/danielbonnells/full/xqjrmJ/
+**Link:** https://www.freecodecamp.com/danielbonnells/front-end-certification
