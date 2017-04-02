@@ -185,3 +185,11 @@
 
 **Link:** https://codepen.io/danielbonnells/full/xqjrmJ/
 **Link:** https://www.freecodecamp.com/danielbonnells/front-end-certification
+
+### Day 90: April 1, 2017
+
+**Today's Progress**: I updated my website!
+
+**Thoughts:** Woohooooo! The past five days since getting my certificate have been about getting my website into shape. I have had a website for a while, and I was very proud of it when I made it long ago, but I had to update it. I'm currently loving the new one that I wrote from scratch. While building it I used chrome, but when I tested it on Safari, a lot of things didn't work. That forced me to look more into cross browser compatibility and try to implement solutions that would work on a variety of systems. I am not looking to run it on really old browsers, but it should look pretty much the same on all of the modern browsers. Next up, my resume.
+
+**Link:** https://danielbonnells.com
